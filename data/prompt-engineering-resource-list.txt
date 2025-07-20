@@ -1,0 +1,142 @@
+# All prompt engineering Resources Found
+
+## Tutorials Section:
+1. **Prompt Engineering Guide - From Beginner to Advanced**
+   - *Author:* Matthew Berman
+   - *URL:* [Watch here](https://www.youtube.com/watch?v=uDIW34h8cmM)
+   - *Summary:* A tutorial video covering prompt engineering essentials with over 100K views.
+
+2. **The Definitive Prompt Engineering Guide for 2025: Tips, Tricks, Tools!**
+   - *Author:* Maksims Sics
+   - *URL:* [Watch here](https://www.youtube.com/watch?v=CmB7_L_fF4k)
+   - *Summary:* Comprehensive guide to prompt engineering in 2025 covering advanced techniques and tools.
+
+3. **Prompt engineering essentials: Getting better results from LLMs | Tutorial**
+   - *Author:* GitHub
+   - *URL:* [Watch here](https://www.youtube.com/watch?v=LAF-lACf2QY)
+   - *Summary:* Tutorial on prompt engineering essentials for developers interacting with Large Language Models.
+
+4. **Prompt Engineering Master Class for ENGINEERS with Ollama and LLM (Q4 2024 Update)**
+   - *Author:* IndyDevDan
+   - *URL:* [Watch here](https://www.youtube.com/watch?v=ujnLJru2LIs)
+   - *Summary:* Master class covering the fundamentals of prompt engineering for engineers.
+
+5. **Learn Better Prompt Engineering in 7 Minutes**
+   - *Author:* AWS Developers
+   - *URL:* [Watch here](https://www.youtube.com/watch?v=-Hjw0_PMyfQ&pp=0gcJCdgAo7VqN5tD)
+   - *Summary:* Tutorial on prompt engineering basics for Amazon Bedrock.
+
+6. **The ULTIMATE 2025 Guide to Prompt Engineering - Master the Perfect Prompt Formula!**
+   - *Author:* AI Master
+   - *URL:* [Watch here](https://www.youtube.com/watch?v=bIxbpIwYTXI&pp=0gcJCdgAo7VqN5tD)
+   - *Summary:* Tutorial on prompt engineering covering practical tips and techniques.
+
+7. **OpenAI Just Dropped Free Prompt Engineering Tutorial Videos ...**
+   - *Author:* HelperHatDev
+   - *URL:* [Read here](https://www.reddit.com/r/PromptEngineering/comments/1jqn62k/openai_just_dropped_free_prompt_engineering/)
+   - *Summary:* Free 3-part video series on prompt engineering from OpenAI.
+
+8. **Video Lecture-08: Harnessing the Power of Prompt Engineering**
+   - *Author:* NOU25 MA05
+   - *URL:* [Watch here](https://www.youtube.com/watch?v=asILbMsK3EE)
+   - *Summary:* Video lecture focused on prompt engineering available on YouTube.
+
+9. **Prompt Engineering 2025 Full course - YouTube**
+   - *Author:* Great Learning
+   - *URL:* [Watch here](https://www.youtube.com/watch?v=5i2Hn8OG94o)
+   - *Summary:* Full course covering prompt engineering basics and advanced strategies.
+
+10. **Prompt Engineering Tutorial – Master ChatGPT and LLM Responses**
+    - *Author:* freeCodeCamp.org
+    - *URL:* [Watch here](https://www.youtube.com/watch?v=_ZvnD73m40o&pp=0gcJCfwAo7VqN5tD)
+    - *Summary:* Tutorial on prompt engineering techniques for ChatGPT and other LLMs.
+
+## Practice Problems Section:
+1. **GitHub - AsharibAli/100-Days-of-Prompt-Engineering: 100 days of prompt engineering | Improve 1% Everyday**
+   - *URL:* [Visit here](https://github.com/AsharibAli/100_Days_of_Prompt_Engineering)
+   - *Summary:* Repository offering a 100-day plan to improve prompt engineering skills with daily practice problems.
+
+2. **Reverse the Challenge, Prompt the Code**
+   - *URL:* [Visit here](https://leetprompt.io/)
+   - *Summary:* Free platform for practicing prompt engineering with real coding challenges.
+
+3. **Prompt Engineering Challenge | Teaching Resources - IDEEAS Lab**
+   - *URL:* [Visit here](https://ideeaslab.com/resources/teaching/prompt-engineering-challenge/)
+   - *Summary:* Challenge designed for small groups to practice iterative prompt refinement.
+
+4. **Prompt Engineering Exercises That Sharpen AI Skills - EverWorker**
+   - *URL:* [Read here](https://everworker.ai/blog/prompt-engineering-exercises-that-sharpen-ai-skills)
+   - *Summary:* Blog post presenting prompt engineering exercises to sharpen AI skills.
+
+5. **Complete a prompt engineering challenge to put your new skills to ...**
+   - *URL:* [Read here](https://www.healthliteracysolutions.org/discussion/weekly-activity-complete-a-prompt-engineering-challenge-to-put-your-new-skills-to-the-test)
+   - *Summary:* Webpage providing a prompt engineering challenge for health literacy specialists.
+
+6. **Prompt Engineering Exercises : r/ChatGPTPromptGenius - Reddit**
+   - *URL:* [Read here](https://www.reddit.com/r/ChatGPTPromptGenius/comments/1b0ydni/prompt_engineering_exercises/)
+   - *Summary:* Reddit discussion on prompt engineering exercises.
+
+7. **Examples of Prompts | Prompt Engineering Guide**
+   - *URL:* [Visit here](https://www.promptingguide.ai/introduction/examples)
+   - *Summary:* Page providing examples of prompt engineering for various tasks.
+
+8. **Prompting Best Practices — Prompt Engineering - Ryan Zheng - Medium**
+   - *URL:* [Read here](https://ryan-zheng.medium.com/prompting-best-practices-6a0ca3e74361)
+   - *Summary:* Detailed best practices for writing effective prompts for AI.
+
+9. **Prompt Engineering in 2025: The Latest Best Practices**
+   - *URL:* [Read here](https://www.news.aakashg.com/p/prompt-engineering?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F423f7be9-fd4d-4314-afb8-0a1797fcd156_1302x1362.png&open=false)
+   - *Summary:* Article discussing the importance of prompt engineering for AI product success.
+
+10. **Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.**
+    - *URL:* [Visit here](https://mphr.notion.site/Prompt-Engineering-Best-Practices-0839585d4bce4c6abb0b551b2107a92a)
+    - *Summary:* Page summarizing prompt engineering best practices to improve Large Language Model (LLM) output.
+
+## Project Ideas Section:
+1. **Prompt Engineering Z2H | Prompt Engineering From Zero To Hero Free Online Book**
+   - *URL:* [Visit here](https://promptz2h.com/)
+   - *Summary:* Website offering a hands-on guide to prompt engineering with real-world AI applications.
+
+2. **This prompt teaches you 280+ prompt engineering methods**
+   - *Author:* Alex McFarland
+   - *URL:* [Read here](https://aidisruptor.ai/p/this-prompt-teaches-you-280-prompt)
+   - *Summary:* Platform offering over 280 prompt engineering techniques for hands-on learning.
+
+3. **100 days of prompt engineering | Improve 1% Everyday**
+   - *URL:* [Visit here](https://github.com/AsharibAli/100_Days_of_Prompt_Engineering)
+   - *Summary:* GitHub project providing a structured approach to improving prompt engineering skills over 100 days.
+
+4. **Part 2: Hands-on Activities - Prompt Engineering for GenAI**
+   - *Author:* Christian Schmidt
+   - *URL:* [Visit here](https://libguides.uvic.ca/Prompt_Engineering_Beginners_Course/Hands-on_activities)
+   - *Summary:* Webpage providing hands-on activities for a beginner-level prompt engineering course.
+
+5. **GitHub - DilrajS/Prompt-Engineering-Assistant-Chatbot: GPT The Prompt Engineering Assistant Chatbot helps users craft effective prompts for GPT-3 and GPT-4**
+   - *Author:* DilrajS
+   - *URL:* [Visit here](https://github.com/DilrajS/Prompt-Engineering-Assistant-Chatbot)
+   - *Summary:* Project demonstrating prompt engineering, fine-tuning, data synthesis, and more with a hands-on chatbot assistant.
+
+6. **GitHub - cyberian-hacksy/prompt_engineering: Prompt Engineering Techniques demonstrated with langchain + openai**
+   - *Author:* cyberian-hacksy
+   - *URL:* [Visit here](https://github.com/cyberian-hacksy/prompt_engineering)
+   - *Summary:* GitHub repository providing a hands-on guide to prompt engineering techniques using Langchain and OpenAI.
+
+7. **GitHub - krishvsoni/Enhancing-Text-Generation-with-Prompt-Engineering**
+   - *Author:* krishvsoni
+   - *URL:* [Visit here](https://github.com/krishvsoni/Enhancing-Text-Generation-with-Prompt-Engineering)
+   - *Summary:* GitHub project offering a beginner's guide to prompt engineering with Jupyter notebooks exploring various topics.
+
+8. **Prompt Engineering for Everyone**
+   - *Author:* IBMSkillsNetwork
+   - *URL:* [Visit here](https://cognitiveclass.ai/courses/prompt-engineering-for-everyone)
+   - *Summary:* Course providing hands-on experience and a final project to master the art of communicating effectively with AI.
+
+9. **Prompt Engineering Teacher Project Breakdown Part 1 - Medium**
+   - *Author:* Chiyoung Kim
+   - *URL:* [Read here](https://medium.com/@chiyoungkim/prompt-engineering-teacher-project-breakdown-part-1-building-the-prompt-ce9e3f3a950e)
+   - *Summary:* Article detailing the creation of an AI prompt engineering teacher using Claude 3.
+
+10. **40+ Artificial Intelligence Project Ideas for Beginners [2025]**
+    - *Author:* ProjectPro
+    - *URL:* [Read here](https://www.projectpro.io/article/artificial-intelligence-project-ideas/461)
+    - *Summary:* Article providing AI project ideas for beginners including a resume parser project.

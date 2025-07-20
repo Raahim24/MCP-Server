@@ -1,0 +1,324 @@
+{
+  "tutorials": {
+    "requestId": "89d8534a49685259dd1fbc3b56859385",
+    "autopromptString": "prompt engineering tutorial course video youtube",
+    "resolvedSearchType": "neural",
+    "results": [
+      {
+        "id": "https://www.youtube.com/watch?v=uDIW34h8cmM",
+        "title": "Prompt Engineering Guide - From Beginner to Advanced",
+        "url": "https://www.youtube.com/watch?v=uDIW34h8cmM",
+        "publishedDate": "2025-06-03T00:00:00.000Z",
+        "author": "Matthew Berman",
+        "summary": "This YouTube video is a prompt engineering tutorial. The video has over 100K views and 3.5K likes. The creator also provides links to his newsletter, AI tools, and social media.\n",
+        "favicon": "https://www.youtube.com/s/desktop/fba944d3/img/logos/favicon_32x32.png"
+      },
+      {
+        "id": "https://www.youtube.com/watch?v=CmB7_L_fF4k",
+        "title": "The Definitive Prompt Engineering Guide for 2025: Tips, Tricks, Tools!",
+        "url": "https://www.youtube.com/watch?v=CmB7_L_fF4k",
+        "publishedDate": "2025-03-06T00:00:00.000Z",
+        "author": "Maksims Sics",
+        "summary": "This YouTube video is a comprehensive guide to prompt engineering in 2025, covering the latest tips, tricks, and tools for crafting effective AI prompts. The video will cover the fundamentals of prompt engineering, prompt libraries, advanced techniques (like Chain of Thought and Tree of Thought), prompt testing tools, prompt bias and jailbreaking, prompting for function calling, meta prompting, and practical examples. The video also provides a list of resources, including prompt libraries, research papers, and prompt engineering frameworks.\n",
+        "favicon": "https://www.youtube.com/s/desktop/fba944d3/img/logos/favicon_32x32.png"
+      },
+      {
+        "id": "https://www.youtube.com/watch?v=LAF-lACf2QY",
+        "title": "Prompt engineering essentials: Getting better results from LLMs | Tutorial",
+        "url": "https://www.youtube.com/watch?v=LAF-lACf2QY",
+        "publishedDate": "2025-03-31T00:00:00.000Z",
+        "author": "GitHub",
+        "summary": "This YouTube tutorial covers prompt engineering essentials for developers to effectively interact with Large Language Models (LLMs). It explains context, tokens, limitations, and how to structure prompts to overcome common issues. The video includes chapters on LLMs, prompt components, refining prompts, handling confusion, token limits, and iterative prompting.\n",
+        "favicon": "https://www.youtube.com/s/desktop/fba944d3/img/logos/favicon_32x32.png"
+      },
+      {
+        "id": "https://www.youtube.com/watch?v=ujnLJru2LIs",
+        "title": "Prompt Engineering Master Class for ENGINEERS with Ollama and LLM (Q4 2024 Update)",
+        "url": "https://www.youtube.com/watch?v=ujnLJru2LIs",
+        "publishedDate": "2024-11-25T00:00:00.000Z",
+        "author": "IndyDevDan",
+        "summary": "This YouTube video is a prompt engineering master class for engineers, hosted by IndyDevDan. It covers the fundamentals of prompt engineering, emphasizing its importance for unlocking the potential of AI agents and LLMs, regardless of the specific model (Qwen 2.5, Claude 3.5, Gemini Flash, etc.). The video uses tools like Cursor, Ollama, and Simon Willison's LLM CLI Library. The tutorial is structured around a four-level prompt framework, covering basic prompts, structured prompts, prompts with clear examples, and prompts with dynamic variables. The video also discusses building a prompt library and preparing for AI innovations in 2025.\n",
+        "favicon": "https://www.youtube.com/s/desktop/33ae93e9/img/logos/favicon_32x32.png"
+      },
+      {
+        "id": "https://www.youtube.com/watch?v=-Hjw0_PMyfQ&pp=0gcJCdgAo7VqN5tD",
+        "title": "Learn Better Prompt Engineering in 7 Minutes",
+        "url": "https://www.youtube.com/watch?v=-Hjw0_PMyfQ&pp=0gcJCdgAo7VqN5tD",
+        "publishedDate": "2025-02-13T00:00:00.000Z",
+        "author": "AWS Developers",
+        "summary": "This YouTube video is a tutorial on prompt engineering basics for Amazon Bedrock. It covers essential techniques for crafting effective prompts, including providing clear instructions, placing questions, using separator characters and output indicators, and understanding inference parameters. The video aims to help viewers create more intelligent and responsive AI applications.\n",
+        "favicon": "https://www.youtube.com/s/desktop/54e547bd/img/logos/favicon_32x32.png"
+      },
+      {
+        "id": "https://www.youtube.com/watch?v=bIxbpIwYTXI&pp=0gcJCdgAo7VqN5tD",
+        "title": "The ULTIMATE 2025 Guide to Prompt Engineering - Master the Perfect Prompt Formula!",
+        "url": "https://www.youtube.com/watch?v=bIxbpIwYTXI&pp=0gcJCdgAo7VqN5tD",
+        "publishedDate": "2024-12-25T00:00:00.000Z",
+        "author": "AI Master",
+        "summary": "This YouTube video is a tutorial on prompt engineering, covering how AI interprets prompts and providing practical tips, rules, and techniques for getting accurate and creative outputs from language models like ChatGPT and image generators like DALL-E and Midjourney. The video includes 11 rules for prompt engineering and also covers image generation basics.\n",
+        "favicon": "https://www.youtube.com/s/desktop/0df452f7/img/logos/favicon_32x32.png"
+      },
+      {
+        "id": "https://www.reddit.com/r/PromptEngineering/comments/1jqn62k/openai_just_dropped_free_prompt_engineering/",
+        "title": "OpenAI Just Dropped Free Prompt Engineering Tutorial Videos ...",
+        "url": "https://www.reddit.com/r/PromptEngineering/comments/1jqn62k/openai_just_dropped_free_prompt_engineering/",
+        "publishedDate": "2025-04-03T16:35:26.000Z",
+        "author": "HelperHatDev",
+        "summary": "OpenAI released a free 3-part video series on prompt engineering, covering beginner to master levels. The videos are available on the OpenAI Academy website and require logging in with an email. The series includes \"Introduction to Prompt Engineering,\" \"Advanced Prompt Engineering,\" and \"Mastering Prompt Engineering.\"  A comment suggests the videos are basic and aimed at those new to prompting.\n"
+      },
+      {
+        "id": "https://www.youtube.com/watch?v=asILbMsK3EE",
+        "title": "Video Lecture-08: Harnessing the Power of Prompt Engineering",
+        "url": "https://www.youtube.com/watch?v=asILbMsK3EE",
+        "publishedDate": "2025-01-22T00:00:00.000Z",
+        "author": "NOU25 MA05",
+        "summary": "This is a video lecture titled \"Video Lecture-08: Harnessing the Power of Prompt Engineering\" available on YouTube. It has 474 views and 2 likes. It is from a channel with 143 subscribers. This is a tutorial video about prompt engineering.\n",
+        "favicon": "https://www.youtube.com/s/desktop/30100020/img/logos/favicon_32x32.png"
+      },
+      {
+        "id": "https://www.youtube.com/watch?v=5i2Hn8OG94o",
+        "title": "Prompt Engineering 2025 Full course - YouTube",
+        "url": "https://www.youtube.com/watch?v=5i2Hn8OG94o",
+        "publishedDate": "2024-06-15T00:00:00.000Z",
+        "author": "Great Learning",
+        "summary": "This YouTube video is a full course on prompt engineering. It covers the basics, advanced strategies, and practical applications of prompt engineering, including the components of a good prompt, different prompt patterns, common errors, and real-world applications. The course also includes hands-on examples and covers zero-shot, few-shot, and chain-of-thought processes. The video is offered by Great Learning Academy, which provides free courses with certificates.\n",
+        "favicon": "https://www.youtube.com/s/desktop/fba944d3/img/logos/favicon_32x32.png"
+      },
+      {
+        "id": "https://www.youtube.com/watch?v=_ZvnD73m40o&pp=0gcJCfwAo7VqN5tD",
+        "title": "Prompt Engineering Tutorial – Master ChatGPT and LLM Responses",
+        "url": "https://www.youtube.com/watch?v=_ZvnD73m40o&pp=0gcJCfwAo7VqN5tD",
+        "publishedDate": "2023-09-05T00:00:00.000Z",
+        "author": "freeCodeCamp.org",
+        "summary": "This YouTube video provides a tutorial on prompt engineering techniques to improve results from ChatGPT and other LLMs. The course, developed by @aniakubow, covers topics like the prompt engineering mindset, using GPT-4, best practices, zero-shot and few-shot prompts, AI hallucinations, and vectors/text embeddings. The video also includes information on language models and machine learning.\n",
+        "favicon": "https://www.youtube.com/s/desktop/fba944d3/img/logos/favicon_32x32.png"
+      }
+    ],
+    "searchTime": 3266.7537130005658,
+    "costDollars": {
+      "total": 0.015,
+      "search": {
+        "neural": 0.005
+      },
+      "contents": {
+        "summary": 0.01
+      }
+    }
+  },
+  "practice": {
+    "requestId": "eaa42188c6748fc065bb5e925d35b5fd",
+    "autopromptString": "prompt engineering practice problems challenges exercises",
+    "resolvedSearchType": "neural",
+    "results": [
+      {
+        "id": "https://github.com/AsharibAli/100_Days_of_Prompt_Engineering",
+        "title": "GitHub - AsharibAli/100-Days-of-Prompt-Engineering: 100 days of prompt engineering | Improve 1% Everyday",
+        "url": "https://github.com/AsharibAli/100_Days_of_Prompt_Engineering",
+        "publishedDate": "2023-07-23T16:39:52.000Z",
+        "author": "AsharibAli",
+        "summary": "This GitHub repository provides a 100-day plan to improve prompt engineering skills. It offers daily practice problems, challenges, and exercises focusing on various aspects of prompt design. The plan covers topics like prompt structure, keyword selection, real-world context simulation, user-centric design, scenario-based prompts, feedback loops, clarity, emotion-driven prompts, interactive engagement, time constraints, tiered complexity, cultural sensitivity, and more. Each day presents a new prompt engineering challenge to enhance skills progressively.\n",
+        "image": "https://opengraph.githubassets.com/757f31715e19b9a2f54c67b8cd57d0f2fc587138825c3e0418c1fdba8dfd92d6/AsharibAli/100-Days-of-Prompt-Engineering",
+        "favicon": "https://github.com/fluidicon.png"
+      },
+      {
+        "id": "https://leetprompt.io/",
+        "title": "Reverse the Challenge, Prompt the Code",
+        "url": "https://leetprompt.io/",
+        "publishedDate": "2025-01-01T00:00:00.000Z",
+        "author": "",
+        "summary": "LeetPrompt is a free platform for practicing prompt engineering with real coding challenges. Users write prompts to guide AI models like GPT-4 and Claude to transform initial code, receiving instant feedback on accuracy, efficiency, and clarity. The platform offers various features, including multiple AI model testing, progressive difficulty levels, and detailed feedback to help users improve their prompt engineering skills. The scoring system evaluates prompts based on accuracy, efficiency, and clarity, with model multipliers and difficulty bonuses.\n"
+      },
+      {
+        "id": "https://ideeaslab.com/resources/teaching/prompt-engineering-challenge/",
+        "title": "Prompt Engineering Challenge | Teaching Resources - IDEEAS Lab",
+        "url": "https://ideeaslab.com/resources/teaching/prompt-engineering-challenge/",
+        "publishedDate": "2025-04-03T00:00:00.000Z",
+        "author": "",
+        "summary": "This webpage outlines a prompt engineering challenge designed for small groups, with the goal of practicing iterative prompt refinement. The challenge is structured with basic, intermediate, and advanced levels, each building upon the previous. Groups are given engineering scenarios and asked to create prompts for AI tools like ChatGPT. The scenarios include explaining engineering concepts, generating problems, creating design challenges, and developing lab procedures. The webpage provides instructions for facilitators, challenge scenarios, and refinement tips.\n",
+        "image": "https://ideeas-lab.com/images/og-image.jpg",
+        "favicon": "https://ideeaslab.com/favicon-32x32.png"
+      },
+      {
+        "id": "https://everworker.ai/blog/prompt-engineering-exercises-that-sharpen-ai-skills",
+        "title": "Prompt Engineering Exercises That Sharpen AI Skills - EverWorker",
+        "url": "https://everworker.ai/blog/prompt-engineering-exercises-that-sharpen-ai-skills",
+        "publishedDate": "2025-06-09T00:00:00.000Z",
+        "author": "",
+        "summary": "This blog post presents prompt engineering exercises to improve prompt design and LLM task performance. The exercises include rewriting prompts for specificity, adding role-based context, and iterating with feedback. Specificity in prompts reduces ambiguity and increases the likelihood of relevant output, while assigning a role activates targeted reasoning. Iterating with feedback allows you to test how changes in prompt structure affect the output.\n"
+      },
+      {
+        "id": "https://www.healthliteracysolutions.org/discussion/weekly-activity-complete-a-prompt-engineering-challenge-to-put-your-new-skills-to-the-test",
+        "title": "Complete a prompt engineering challenge to put your new skills to ...",
+        "url": "https://www.healthliteracysolutions.org/discussion/weekly-activity-complete-a-prompt-engineering-challenge-to-put-your-new-skills-to-the-test",
+        "publishedDate": "2025-02-27T10:03:00.000Z",
+        "author": "",
+        "summary": "This webpage provides a prompt engineering challenge for health literacy specialists. The goal is to use AI to simplify complex medical language for patient education materials, specifically focusing on high blood pressure. The challenge is broken down into three parts:\n\n1.  **Crafting Effective Prompts:** The user is instructed to refine an initial prompt (\"Rewrite the following text about high blood pressure in a way that is easier for patients to understand.\") by specifying reading level, format, audience, and tone.\n2.  **Evaluating AI Responses:** The user is to use a refined prompt in an AI tool, analyze the response for accuracy, readability, cultural sensitivity, and actionability, and then revise the prompt to improve the AI's output.\n3.  **Reflection:** The user is asked to reflect on the changes to the prompt that led to the most useful response, what they learned about how AI interprets instructions, and how this skill can be applied to future health literacy work.\n"
+      },
+      {
+        "id": "https://www.reddit.com/r/ChatGPTPromptGenius/comments/1b0ydni/prompt_engineering_exercises/",
+        "title": "Prompt Engineering Exercises : r/ChatGPTPromptGenius - Reddit",
+        "url": "https://www.reddit.com/r/ChatGPTPromptGenius/comments/1b0ydni/prompt_engineering_exercises/",
+        "publishedDate": "2024-02-27T00:53:03.000Z",
+        "author": "Cabbage_Water_Head",
+        "summary": "This Reddit post discusses prompt engineering exercises. A user, a project/program management professional, is seeking exercises to practice prompt engineering skills. One suggestion is to use ChatGPT to generate exercises. Another suggests building a fake project with ChatGPT, including scope, risk register, and stakeholder management plan, then role-playing scenarios. A user also recommends the CodeSignal course \"Prompt Engineering for Everyone\".\n"
+      },
+      {
+        "id": "https://www.promptingguide.ai/introduction/examples",
+        "title": "Examples of Prompts | Prompt Engineering Guide",
+        "url": "https://www.promptingguide.ai/introduction/examples",
+        "publishedDate": "2024-01-01T00:00:00.000Z",
+        "author": "",
+        "summary": "This page provides examples of prompt engineering for various tasks, including text summarization, information extraction, question answering, text classification, conversation, code generation, and reasoning. The examples demonstrate how to use prompts to instruct language models to perform specific tasks.\n"
+      },
+      {
+        "id": "https://ryan-zheng.medium.com/prompting-best-practices-6a0ca3e74361",
+        "title": "Prompting Best Practices — Prompt Engineering - Ryan Zheng - Medium",
+        "url": "https://ryan-zheng.medium.com/prompting-best-practices-6a0ca3e74361",
+        "publishedDate": "2024-07-27T06:04:01.000Z",
+        "author": "Ryan Zheng",
+        "summary": "This webpage provides detailed best practices for writing effective prompts for AI, categorized into several key areas:\n\n*   **Mandatory Rules:** These include specifying command execution protocols, requiring the AI to wait for results, and indicating when it is waiting.\n*   **Structural Elements:** This involves defining the AI's role and task, and providing detailed tools and a workflow.\n*   **Content and Style:** This covers using an authoritative and instructional tone, maintaining technical precision, and emphasizing key points.\n*   **Organization and Formatting:** This focuses on structuring information, clearly delineating sections, and using formatting techniques.\n*   **Clarity and Comprehensiveness:** This emphasizes the use of examples, ensuring completeness and coherence, and implementing procedural writing.\n\nThe article provides positive and negative examples for each best practice to illustrate effective prompt engineering techniques.\n"
+      },
+      {
+        "id": "https://www.news.aakashg.com/p/prompt-engineering?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F423f7be9-fd4d-4314-afb8-0a1797fcd156_1302x1362.png&open=false",
+        "title": "Prompt Engineering in 2025: The Latest Best Practices",
+        "url": "https://www.news.aakashg.com/p/prompt-engineering?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F423f7be9-fd4d-4314-afb8-0a1797fcd156_1302x1362.png&open=false",
+        "publishedDate": "2025-07-09T23:12:17.000Z",
+        "author": "Aakash Gupta, Miqdad Jaffer",
+        "summary": "This article argues that prompt engineering is crucial for AI product success, especially for product managers (PMs). While it may seem less important for personal AI use, the best AI companies are highly focused on it. The article highlights the importance of system prompts, using examples from Bolt and Cluely, and how they contribute to their success. It emphasizes that great prompt engineering can be the difference between success and failure. The author also stresses that PMs should be actively involved in prompt engineering because they understand user intent, can iterate faster, make product decisions through prompts, and spot opportunities others miss.\n",
+        "image": "https://substackcdn.com/image/fetch/$s_!l08O!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3da10f37-9143-4c08-b17f-7e813449a6c7_1200x800.png",
+        "favicon": "https://substackcdn.com/image/fetch/%24s_%21JjVS%21%2Cf_auto%2Cq_auto%3Agood%2Cfl_progressive%3Asteep/https%3A//substack-post-media.s3.amazonaws.com/public/images/d28764a0-855d-44e7-bd04-e7205ea47ae5/favicon-32x32.png"
+      },
+      {
+        "id": "https://mphr.notion.site/Prompt-Engineering-Best-Practices-0839585d4bce4c6abb0b551b2107a92a",
+        "title": "Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.",
+        "url": "https://mphr.notion.site/Prompt-Engineering-Best-Practices-0839585d4bce4c6abb0b551b2107a92a",
+        "publishedDate": "2023-12-11T00:00:00.000Z",
+        "author": "",
+        "summary": "This page summarizes prompt engineering best practices to improve Large Language Model (LLM) output. Key strategies include: reducing ambiguity, using clear formatting to indicate distinct parts of the input, and asking the model to adopt a persona. Other techniques involve providing examples (\"shots\"), prompting the model to think incrementally, and generating multiple responses with different prompts. Additionally, the page touches on adjusting the temperature (randomness) and the number of examples in the prompt.\n"
+      }
+    ],
+    "searchTime": 3547.2130810003728,
+    "costDollars": {
+      "total": 0.015,
+      "search": {
+        "neural": 0.005
+      },
+      "contents": {
+        "summary": 0.01
+      }
+    }
+  },
+  "projects": {
+    "requestId": "7d7bb7e855175cc291b1b640f99e627a",
+    "autopromptString": "prompt engineering project ideas build hands-on",
+    "resolvedSearchType": "neural",
+    "results": [
+      {
+        "id": "https://promptz2h.com/",
+        "title": "Prompt Engineering Z2H | Prompt Engineering From Zero To Hero Free Online Book",
+        "url": "https://promptz2h.com/",
+        "publishedDate": "2025-01-01T00:00:00.000Z",
+        "author": "",
+        "summary": "This website offers a free, hands-on guide to prompt engineering, designed to help you build real-world AI applications. You'll learn to build AI chatbots, generate content, create AI reasoning systems, and more. The guide emphasizes project-based learning, with over 8 projects to build. It covers advanced techniques like Chain-of-Thought and RAG, and includes real-world examples and student success stories.\n",
+        "image": "https://promptz2h.com/img/cover.png",
+        "favicon": "https://promptz2h.com/img/favicon.ico"
+      },
+      {
+        "id": "https://aidisruptor.ai/p/this-prompt-teaches-you-280-prompt",
+        "title": "This prompt teaches you 280+ prompt engineering methods",
+        "url": "https://aidisruptor.ai/p/this-prompt-teaches-you-280-prompt",
+        "publishedDate": "2025-04-25T23:51:41.000Z",
+        "author": "Alex McFarland",
+        "summary": "This prompt transforms ChatGPT or other AI models into a prompt engineering tutor, offering over 280 techniques. It allows users to learn at their own pace, explore specific categories, and add new techniques. The system presents each technique with an overview, explanation, and example, making it ideal for hands-on learning and exploring prompt engineering project ideas.\n",
+        "image": "https://substackcdn.com/image/fetch/$s_!K2pE!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F665c31c5-bc44-4f18-a043-fba951f7cd03_1400x1000.png",
+        "favicon": "https://substackcdn.com/image/fetch/%24s_%211Csp%21%2Cf_auto%2Cq_auto%3Agood%2Cfl_progressive%3Asteep/https%3A//substack-post-media.s3.amazonaws.com/public/images/730ab592-03fb-40bf-af90-25b0500f5e69/favicon-32x32.png"
+      },
+      {
+        "id": "https://github.com/AsharibAli/100_Days_of_Prompt_Engineering",
+        "title": "GitHub - AsharibAli/100-Days-of-Prompt-Engineering: 100 days of prompt engineering | Improve 1% Everyday",
+        "url": "https://github.com/AsharibAli/100_Days_of_Prompt_Engineering",
+        "publishedDate": "2023-07-23T16:39:52.000Z",
+        "author": "AsharibAli",
+        "summary": "This GitHub project, \"100 Days of Prompt Engineering,\" offers a structured approach to improving prompt engineering skills. The project provides daily prompts designed to be completed over 100 days. The prompts cover a range of techniques, including prompt structure, keyword selection, real-world context simulation, user-centric design, scenarios and role-play, feedback loops, clarity, emotion, interactivity, time constraints, tiered complexity, cultural sensitivity, and more. The project encourages hands-on practice through various exercises and challenges.\n",
+        "image": "https://opengraph.githubassets.com/757f31715e19b9a2f54c67b8cd57d0f2fc587138825c3e0418c1fdba8dfd92d6/AsharibAli/100-Days-of-Prompt-Engineering",
+        "favicon": "https://github.com/fluidicon.png"
+      },
+      {
+        "id": "https://libguides.uvic.ca/Prompt_Engineering_Beginners_Course/Hands-on_activities",
+        "title": "Part 2: Hands-on Activities - Prompt Engineering for GenAI",
+        "url": "https://libguides.uvic.ca/Prompt_Engineering_Beginners_Course/Hands-on_activities",
+        "publishedDate": "2024-05-16T00:00:00.000Z",
+        "author": "Christian Schmidt",
+        "summary": "This webpage provides hands-on activities for a beginner-level prompt engineering course. The activities involve using a GenAI chatbot (like Microsoft Copilot) and applying prompt engineering principles. The method involves comparing \"Bad Prompts\" with \"Improved Prompts\" to evaluate the impact of specific techniques on the outcomes.\n",
+        "image": "https://libguides.uvic.ca/ld.php?screenshot=hdjjgi.png&size=facebook&cb=1745986084"
+      },
+      {
+        "id": "https://github.com/DilrajS/Prompt-Engineering-Assistant-Chatbot",
+        "title": "GitHub - DilrajS/Prompt-Engineering-Assistant-Chatbot: GPT  The Prompt Engineering Assistant Chatbot helps users craft effective prompts for GPT-3 and GPT-4, showcasing skills in fine-tuning, prompt engineering, data synthesis, and more. It's a user-friendly tool enhancing AI interactions.",
+        "url": "https://github.com/DilrajS/Prompt-Engineering-Assistant-Chatbot",
+        "publishedDate": "2024-03-17T23:48:54.000Z",
+        "author": "DilrajS",
+        "summary": "This project is a Prompt Engineering Assistant Chatbot that helps users craft effective prompts for GPT-3 and GPT-4. It's a hands-on example demonstrating prompt engineering, fine-tuning, data synthesis, and automatic evaluation. Key features include prompt analysis, improvement suggestions, an examples repository, and a best practices guide. It uses a fine-tuned GPT-3/4 backend, a Streamlit frontend, and is deployed using Streamlit Sharing. You can use it by entering a prompt, and the system will provide feedback and suggestions.\n",
+        "image": "https://opengraph.githubassets.com/b6009ff4a167e9b9bc022dc80dc55b7f121affd222032072420aefa48597adc7/DilrajS/Prompt-Engineering-Assistant-Chatbot",
+        "favicon": "https://github.com/fluidicon.png"
+      },
+      {
+        "id": "https://github.com/cyberian-hacksy/prompt_engineering",
+        "title": "GitHub - cyberian-hacksy/prompt_engineering: Prompt Engineering Techniques demonstrated with langchain + openai",
+        "url": "https://github.com/cyberian-hacksy/prompt_engineering",
+        "publishedDate": "2024-03-04T19:57:12.000Z",
+        "author": "cyberian-hacksy",
+        "summary": "This GitHub repository, \"prompt_engineering,\" provides a hands-on guide to prompt engineering techniques using Langchain and OpenAI. It includes instructions for setting up a JupyterLab environment using conda, mamba, or pip, and details the necessary environment variables, such as OPENAI_API_KEY, GOOGLE_CSE_ID, and GOOGLE_API_KEY, along with links to create them.\n",
+        "image": "https://opengraph.githubassets.com/e9d6a2659119bf185ba3e7ac30d6a9876c842dff94c4704cd937e4c82477ecda/cyberian-hacksy/prompt_engineering",
+        "favicon": "https://github.com/fluidicon.png"
+      },
+      {
+        "id": "https://github.com/krishvsoni/Enhancing-Text-Generation-with-Prompt-Engineering",
+        "title": "GitHub - krishvsoni/Enhancing-Text-Generation-with-Prompt-Engineering",
+        "url": "https://github.com/krishvsoni/Enhancing-Text-Generation-with-Prompt-Engineering",
+        "publishedDate": "2023-07-16T16:49:27.000Z",
+        "author": "krishvsoni",
+        "summary": "This GitHub project, \"Enhancing-Text-Generation-with-Prompt-Engineering,\" offers a beginner's guide to prompt engineering. It includes Jupyter notebooks exploring topics like inferring, iterative prompt refinement, prompt design, chatbot development, text summarization, prompt expansion, and prompt transformation. The project is licensed under the MIT License and welcomes contributions. You can find hands-on examples and code snippets within the notebooks to build your own prompt engineering projects.\n",
+        "image": "https://opengraph.githubassets.com/6a54b36f5ac5b85d9b9812936e7e9e5955a6d4de01689e3746d978ab0015424d/krishvsoni/Enhancing-Text-Generation-with-Prompt-Engineering",
+        "favicon": "https://github.com/fluidicon.png"
+      },
+      {
+        "id": "https://cognitiveclass.ai/courses/prompt-engineering-for-everyone",
+        "title": "Prompt Engineering for Everyone",
+        "url": "https://cognitiveclass.ai/courses/prompt-engineering-for-everyone",
+        "publishedDate": "",
+        "author": "IBMSkillsNetwork",
+        "summary": "This prompt engineering course provides hands-on experience, including a final project to help you master the art of communicating effectively with AI. You'll learn techniques like the Persona Pattern, Interview Pattern, Chain-of-Thought, and Tree-of-Thought approaches. The course also introduces the watsonx Prompt Lab tool.\n",
+        "image": "https://curator-production.s3.us.cloud-object-storage.appdomain.cloud/uploads/md5-f69b1a30c3396b5ffbe27dc8ecc2931d-course_card.jpeg"
+      },
+      {
+        "id": "https://medium.com/@chiyoungkim/prompt-engineering-teacher-project-breakdown-part-1-building-the-prompt-ce9e3f3a950e",
+        "title": "Prompt Engineering Teacher Project Breakdown Part 1 - Medium",
+        "url": "https://medium.com/@chiyoungkim/prompt-engineering-teacher-project-breakdown-part-1-building-the-prompt-ce9e3f3a950e",
+        "publishedDate": "2024-04-05T01:35:52.000Z",
+        "author": "Chiyoung Kim",
+        "summary": "This article details the creation of an AI prompt engineering teacher using Anthropic's Claude 3, focusing on the prompt's design. The author outlines the success criteria for the teacher, including assessing the user's skill level, creating a personalized curriculum, and providing guidance. The article then breaks down the requirements for achieving these criteria, such as testing the user's skills with diagnostic tasks, generating test cases, and evaluating results to identify strengths and weaknesses. The curriculum should be project-based, organized by skills, and confirmed with the user.\n",
+        "image": "https://miro.medium.com/v2/da:true/resize:fit:500/0*kER-r4N4jWL0fpdT.gif"
+      },
+      {
+        "id": "https://www.projectpro.io/article/artificial-intelligence-project-ideas/461",
+        "title": "40+ Artificial Intelligence Project Ideas for Beginners [2025]",
+        "url": "https://www.projectpro.io/article/artificial-intelligence-project-ideas/461",
+        "publishedDate": "2025-04-21T00:00:00.000Z",
+        "author": "| BY ProjectPro",
+        "summary": "This article provides AI project ideas for beginners, including a resume parser project. The resume parser project uses AI and machine learning to analyze resumes and identify skilled candidates.\n",
+        "image": "https://daxg39y63pxwu.cloudfront.net/images/blog/artificial-intelligence-project-ideas/artificial_intelligence_projects.webp"
+      }
+    ],
+    "searchTime": 3383.4249779991806,
+    "costDollars": {
+      "total": 0.015,
+      "search": {
+        "neural": 0.005
+      },
+      "contents": {
+        "summary": 0.01
+      }
+    }
+  }
+}

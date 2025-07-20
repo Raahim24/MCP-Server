@@ -1,0 +1,124 @@
+# Python Resources
+
+## Tutorials Section:
+1. **Python Full Course for Beginners [2025]** - Programming with Mosh
+   - URL: [YouTube Video](https://www.youtube.com/watch?v=K5KVEU3aaeQ)
+   - Summary: This YouTube video is a full Python course for beginners by Programming with Mosh. It covers a range of topics, starting with the basics of Python and installation, then moving on to variables, strings, numbers, operators, loops, and functions. The video also includes quizzes and exercises to help viewers learn.
+
+2. **Python Full Course 2025 | Python Programming | Python Coding Tutorial for Beginners | Simplilearn** - Simplilearn
+   - URL: [YouTube Video](https://www.youtube.com/watch?v=Qb9UQ0J7puI)
+   - Summary: This YouTube video by Simplilearn is a full Python programming course for beginners. It covers Python basics, data analysis with Pandas, EDA, probability, statistics, and advanced concepts like the ADABoost algorithm and deep learning. The course also includes a roadmap to becoming a data scientist and covers topics like installing Python and writing your first program.
+
+3. **Python Tutorial with Gen AI for 2025 | Python for Beginners | Python full course** - Great Learning
+   - URL: [YouTube Video](https://www.youtube.com/watch?v=-65r_3r-nN4&pp=0gcJCc0AaK0XXGki)
+   - Summary: This YouTube video is a comprehensive Python tutorial for beginners, covering fundamental concepts and advanced topics. It includes Python fundamentals, data structures, object-oriented programming, exception and file handling, data structures and algorithms, machine learning with Python (NumPy, Pandas, Matplotlib, Seaborn), Generative AI with Python, automation with Selenium, and GUI development with Tkinter. The video also provides links to free courses and certificates from Great Learning Academy.
+
+4. **Python Full Course for free (2024)** - Bro Code
+   - URL: [YouTube Video](https://www.youtube.com/watch?v=ix9cRaBkVe0)
+   - Summary: This YouTube video is a full Python tutorial course for beginners in 2024 by Bro Code. It covers a wide range of topics, including variables, user input, loops, functions, object-oriented programming, exception handling, file handling, and GUI development with PyQt5. The course includes numerous projects and programs, such as a Madlibs game, calculator, shopping cart, and weather API app. The video is over 11 hours long and provides links to the Python interpreter and PyCharm IDE.
+
+5. **Python Tutorial for Beginners - Full Course (with Notes & Practice Questions)** - Apna College
+   - URL: [YouTube Video](https://www.youtube.com/watch?v=ERCMXc8x7mc&pp=0gcJCdgAo7VqN5tD)
+   - Summary: This YouTube video is a full Python tutorial for beginners by Apna College. It covers variables, data types, strings, conditional statements, lists, tuples, dictionaries, sets, loops, functions, recursion, file input/output, and object-oriented programming (OOPS) with a mini-project. The video also provides timestamps for each section.
+
+6. **Python Full Course for Beginners | Complete All-in-One Tutorial | 9 Hours** - Dave Gray
+   - URL: [YouTube Video](https://www.youtube.com/watch?v=H2EJuAcrZYU)
+   - Summary: This is a 9-hour Python full course for beginners on YouTube by Dave Gray, offering a complete tutorial with 23 chapters covering Python fundamentals. The course includes topics like Python basics, operators, data types, user input, lists, loops, functions, and more. The video provides links to resources, including source code and a GitHub repository with all course materials.
+
+7. **Python Tutorial for Beginners (with mini-projects)** - freeCodeCamp.org
+   - URL: [YouTube Video](https://www.youtube.com/watch?v=qwAFL1597eM)
+   - Summary: This YouTube video is a complete Python programming tutorial for beginners by freeCodeCamp.org. It includes mini-projects to help you apply what you learn. The course is developed by Dave Gray and covers topics like Python basics, data types, user input, lists, dictionaries, loops, functions, and more. The video also includes a final project and resources in the description.
+
+8. **Python Full Course 2023 | Learn Python in 12 Hours | Python Tutorial for Beginners | Simplilearn** - Simplilearn
+   - URL: [YouTube Video](https://www.youtube.com/watch?v=ITSMDeOgXxw)
+   - Summary: This YouTube video is a 12-hour Python tutorial for beginners by Simplilearn. It covers fundamental Python programming concepts like data types, variables, conditional statements, strings, operators, lists, tuples, and dictionaries. The tutorial also delves into advanced Python programming with OOP concepts, exception handling, file handling, and sorting techniques. The video includes a Spotify data analysis project and interview questions to help you get a job.
+
+9. **Python Full Course 🐍 (FREE)** - Bro Code
+   - URL: [YouTube Video](https://www.youtube.com/watch?v=XKHEtdqhLK8&feature=youtu.be)
+   - Summary: This YouTube video is a full Python tutorial course for beginners by Bro Code. It covers a wide range of topics, including variables, string methods, user input, math functions, loops, lists, functions, file handling, modules, object-oriented programming, and GUI windows. The course also includes several game projects like rock, paper, scissors, tic tac toe, and snake. The video has timestamps for each topic and links to the full playlist and code in the comments.
+
+10. **Python Full Course - in 3 hours | Programming Tutorial for Beginners | Free Certification 2023** - Analytics Vidhya
+    - URL: [YouTube Video](https://www.youtube.com/watch?v=6sLkF-F9Oh0)
+    - Summary: This YouTube video is a 3-hour Python programming tutorial for beginners by Analytics Vidhya. It covers programming essentials, interview concepts, and important libraries like Pandas, Matplotlib, and Seaborn, enabling viewers to work on data analysis, data mining, data visualization, and machine learning projects. The course also touches on Generative AI and includes a free certification and downloadable course materials.
+
+## Practice Section:
+1. **Python Exercises, Practice, Solution - w3resource**
+   - URL: [w3resource](https://www.w3resource.com/python-exercises/)
+   - Summary: This webpage provides a comprehensive collection of Python practice problems, exercises, and challenges. It offers a total of 9475 Python problems, including 2029 main exercises with solutions, explanations, and related problems. The resource is designed for beginner to intermediate Python users to enhance their programming skills.
+
+2. **Practice Python Exercises and Challenges with Solutions - PYnative**
+   - URL: [PYnative](https://pynative.com/python-exercises-with-solutions/)
+   - Summary: This webpage offers Python coding exercises and challenges with solutions for developers of all levels. It includes over 280 coding questions across 19 topics, ranging from Python basics and data structures to data analytics. Each exercise contains 15-30 questions with hints and solutions. The exercises cover topics like basic concepts, functions, strings, lists, OOP, file handling, JSON, NumPy, and Pandas.
+
+3. **Python Exercise with Practice Questions and Solutions** - GeeksforGeeks
+   - URL: [GeeksforGeeks](https://www.geeksforgeeks.org/python/python-exercises-practice-questions-and-solutions/)
+   - Summary: This webpage from GeeksforGeeks provides Python exercises with solutions to help beginners practice and improve their Python skills. It includes chapter-wise exercises covering conditional statements, lists, strings, tuples, dictionaries, sets, matrix operations, functions, object-oriented programming, regular expressions, linked lists, searching, sorting, data structures and algorithms (DSA), file handling, and JSON. The page also links to the GeeksforGeeks Practice Platform for additional Python challenges.
+
+4. **Practice Python** - Michele Pratusevich, michele.pratusevich@gmail.com
+   - URL: [Practice Python](https://www.practicepython.org/)
+   - Summary: Practice Python offers over 40 beginner Python exercises with discussions and solutions. You can find the latest exercise (Exercise 40) from July 17, 2022, and its solution from July 24, 2022.
+
+5. **Python Practice Problems: Get Ready for Your Next Interview** - Jim Anderson
+   - URL: [Real Python](https://www.realpython.com/python-practice-problems/)
+   - Summary: This tutorial on Real Python provides Python practice problems to help intermediate developers prepare for coding interviews. It covers writing code for interview-style problems, discussing solutions, and addressing frequently overlooked details. The tutorial includes problems like summing a range of integers, Caesar ciphers, log parsing, and a Sudoku solver.
+
+6. **Solve Python - HackerRank**
+   - URL: [HackerRank](https://www.hackerrank.com/domains/python)
+   - Summary: This HackerRank page offers Python practice problems, challenges, and exercises across various difficulty levels (Easy, Medium, Hard) and subdomains, including: Introduction, Basic Data Types, Strings, Sets, Math, Itertools, Collections, Date and Time, Errors and Exceptions, Classes, Built-Ins, Python Functionals, Regex and Parsing, XML, Closures and Decorators, Numpy, and Debugging.
+
+7. **Python Coding Practice Online: 195+ Problems on CodeChef**
+   - URL: [CodeChef](https://www.codechef.com/practice/python)
+   - Summary: This webpage provides a platform for practicing Python programming. It likely includes a variety of practice problems, challenges, and exercises to help users improve their Python skills.
+
+8. **50+ Python Practice Questions for Coding Interviews** - Aman Kharwal
+   - URL: [Medium Article](https://amankharwal.medium.com/python-practice-questions-for-beginners-268fcdfb14e6)
+   - Summary: This article provides a list of 50+ Python practice questions for coding interviews, suitable for beginners who have completed the fundamentals of Python. The questions are designed to develop problem-solving skills and are relevant for coding interviews, including those at FAANG companies.
+
+9. **GitHub - veryacademy/Python-Challenges** - veryacademy
+   - URL: [GitHub Repository](https://github.com/veryacademy/Python-Challenges)
+   - Summary: This GitHub repository called "Python-Challenges" by veryacademy contains Python code challenges for users to practice and develop their skills. The repository includes challenges categorized by beginner and intermediate levels, with some focusing on specific areas like Tkinter and CSV manipulation.
+
+10. **GitHub - yamanju/python-coding-challenges** - yamanju
+    - URL: [GitHub Repository](https://github.com/yamanju/python-coding-challenges)
+    - Summary: This GitHub repository, "python-coding-challenges," by yamanju, appears to contain Python coding challenges. The README.md file likely provides more details. The owner is a data scientist from Turkey, and is currently learning Numpy, Pandas, and Seaborn.
+
+## Projects Section:
+1. **60+ Python Projects for All Levels of Expertise - DataCamp**
+   - URL: [DataCamp Article](https://www.datacamp.com/blog/60-python-projects-for-all-levels-expertise)
+   - Summary: This article provides over 60 Python project ideas to help you build hands-on experience and accelerate your learning journey. The projects are categorized by skill level, including beginner projects like analyzing diamond prices, abalone shells, and Premier League data, as well as predicting telecom customer churn. The article recommends using DataCamp's resources, including courses and DataLab, to build foundational skills and work on projects in a fully configured data notebook.
+
+2. **Python Projects for Beginners: 60+ Ideas to Build Your Portfolio** - Dataquest
+   - URL: [Dataquest Article](https://www.dataquest.io/blog/python-projects-for-beginners/)
+   - Summary: This webpage provides Python project ideas to help you learn the language through hands-on experience. It recommends starting with beginner-friendly projects like an interactive word game, analyzing Netflix data, predicting heart disease, exploring Hacker News posts, or analyzing eBay car sales. The page also offers links to courses for those new to Python and lists project ideas for different skill levels and interests, including web development and game development.
+
+3. **Python Projects - Beginner to Advanced - GeeksforGeeks**
+   - URL: [GeeksforGeeks Article](https://www.geeksforgeeks.org/python/python-projects-beginner-to-advanced/)
+   - Summary: This webpage provides a list of Python project ideas for beginners to advanced users to build hands-on. Beginner projects include games (number guessing, word guessing, Hangman, Rock Paper Scissors, etc.), and tools like voice recorders, screen recorders, and desktop notifiers. Intermediate projects include bot creation (Twitter, WhatsApp, Telegram), data analysis tools (Twitter Sentiment Analyzer), and file-sharing apps.
+
+4. **70+ Python Projects for Beginners [Source Code Included] - Python Geeks**
+   - URL: [Python Geeks Article](https://pythongeeks.org/python-projects/)
+   - Summary: This webpage provides a list of over 70 Python project ideas for beginners, with source code included. The projects cover a wide range of applications, including Mad Libs Generator, Number Guessing Game, Countdown Timer, Password Generator, Contact Book, Desktop Notifier App, Website Blocker, Web Scraping, URL Shortener, Twitter Bot, Reddit Bot, Discord Bot, Crypto App, Interactive Quiz, Web Browser, Notes App, Typing Tester, Wikipedia Explorer, Stock Market Prediction App, Image Recognition App, Price Prediction Model, Temperature Converter, Measurement Converter, Bulk File Renamer, Weather Program, Pong Game, Connect Four, Tetris Game.
+
+5. **Python Project: Build a Word Count Command-Line App – Real Python**
+   - URL: [Real Python Project](https://realpython.com/courses/word-count-app-project/)
+   - Summary: This Real Python project guides you through building a simplified version of the Unix `wc` command using Python. The project involves reading content from files and standard input, counting lines, words, and bytes, handling Unicode, and implementing command-line arguments. It provides hands-on experience with file handling, text processing, and command-line utilities, using modules like `pathlib` and `argparse`. The project includes 28 lessons, downloadable resources, and interactive quizzes.
+
+6. **5 Fun Python Projects for Absolute Beginners - KDnuggets**
+   - URL: [KDnuggets Article](https://www.kdnuggets.com/5-fun-python-projects-for-absolute-beginners)
+   - Summary: This article suggests 5 beginner-friendly Python projects to learn core programming principles and practical techniques: 1. Pomodoro Timer App: Build a timer app using event-driven programming and tkinter. 2. Note Taking App with Speech Recognition: Create a voice-powered note-taking assistant using speech_recognition and API integration. 3. AI Virtual Painter: Develop an interactive application using OpenCV to detect colors and track movement. 4. PyPhotoshop: Build a mini-Photoshop to manipulate pixels and handle user input. 5. Tower Defense Game: Create a tower-defense-style game to learn loops, classes, and real-time user interaction.
+
+7. **Top Beginner Python Projects with Code** - Pratyusha
+   - URL: [Odin School Article](https://www.odinschool.com/blog/top-beginner-python-projects-with-code)
+   - Summary: This article provides beginner-level Python project ideas with code to help you practice and improve your programming abilities. One project idea is a Personal Budget Manager, a command-line application to manage personal finances. The code includes functions to load and save transactions, add transactions, and show a summary of financial activities.
+
+8. **Hands-On Python Fun: Create a Grid-Based Game That Trains Both Your Code and Critical Thinking** - Gayathri Muthukumarasamy, CareerByteCode
+   - URL: [CareerByteCode Article](https://careerbytecode.substack.com/p/hands-on-python-fun-create-a-grid-based-game-that-trains-both-your-code-and-critical-thinking?utm_campaign=post&utm_medium=web)
+   - Summary: This article details a fun, hands-on Python project: a grid-based game where the player navigates a 5x5 grid to reach a goal while avoiding a randomly moving enemy. This project teaches GUI programming and logic-building using the Tkinter library, making it ideal for beginners. It covers event handling, collision detection, and real-time updates, providing a foundation for game development and real-world applications. The project is suitable for teaching event-driven programming, beginner game development, Python GUI learning, interview demonstrations, and STEM education.
+
+9. **Lock the Vault: Secure File Encryption Using Python’s Cryptography Library** - Gayathri Battini, CareerByteCode
+   - URL: [CareerByteCode Article](https://careerbytecode.substack.com/p/build-a-digital-vault-to-protect-sensitive-information-using-simple-python-scripts?utm_campaign=post&utm_medium=web)
+   - Summary: This Python project idea focuses on building a secure file encryption and decryption tool using Python's cryptography library. It addresses the need for a simple, script-based solution for securing sensitive files, especially for non-technical users. The project will allow users to generate and manage encryption keys, encrypt files to prevent unauthorized access, and decrypt them when needed. This is useful for securing confidential files, transferring sensitive data, building backup scripts, working with CI/CD pipelines, and adding extra encryption to files stored on shared servers or cloud buckets.
+
+10. **Python Projects – Real Python**
+    - URL: [Real Python Projects](https://realpython.com/tutorials/projects/)
+    - Summary: This page offers Python project ideas with step-by-step instructions to help you build real-world projects from scratch. You'll gain practical coding skills and build a portfolio by following the tutorials and working on hands-on projects.

@@ -1,0 +1,29 @@
+## Python Learning Roadmap
+
+### Beginner Level:
+1. **Watch**: [Python Full Course for Beginners by Programming with Mosh](https://www.youtube.com/watch?v=K5KVEU3aaeQ) - Covers basics, variables, loops, functions.
+   
+2. **Practice**: Solve Python problems on [w3resource](https://www.w3resource.com/python-exercises/) - 9475 problems for beginners to intermediate users.
+   
+3. **Project**: Start with a simple project like a [Word Count Command-Line App](https://realpython.com/courses/word-count-app-project/) to practice file handling and text processing.
+
+### Intermediate Level:
+1. **Watch**: Dive deeper with [Python Tutorial with Gen AI for 2025 by Great Learning](https://www.youtube.com/watch?v=-65r_3r-nN4&pp=0gcJCc0AaK0XXGki) - Covers advanced topics like ML, automation, and GUI development.
+   
+2. **Practice**: Take on more challenging exercises on [PYnative](https://pynative.com/python-exercises-with-solutions/) - 280+ coding questions across various topics.
+   
+3. **Project**: Explore intermediate projects on [GeeksforGeeks](https://www.geeksforgeeks.org/python/python-projects-beginner-to-advanced/) - Data analysis tools, bot creation, and more.
+
+### Advanced Level:
+1. **Watch**: Enhance your skills with the [Python Full Course 2023 by Simplilearn](https://www.youtube.com/watch?v=ITSMDeOgXxw) - Covers advanced Python concepts and includes data analysis projects.
+   
+2. **Practice**: Engage in advanced Python projects on [DataCamp](https://www.datacamp.com/blog/60-python-projects-for-all-levels-expertise) - Over 60 ideas categorized by skill level.
+   
+3. **Project**: Challenge yourself with complex projects like building a [Digital Vault for File Encryption](https://careerbytecode.substack.com/p/build-a-digital-vault-to-protect-sensitive-information-using-simple-python-scripts?utm_campaign=post&utm_medium=web) to enhance security skills.
+
+### Additional Resources:
+- For more project ideas, visit [Real Python Projects](https://realpython.com/tutorials/projects/) for step-by-step instructions.
+- Explore GitHub repositories like [veryacademy/Python-Challenges](https://github.com/veryacademy/Python-Challenges) for code challenges.
+- For hands-on game development, try creating a [Grid-Based Game for Critical Thinking](https://careerbytecode.substack.com/p/hands-on-python-fun-create-a-grid-based-game-that-trains-both-your-code-and-critical-thinking?utm_campaign=post&utm_medium=web).
+
+Follow this roadmap to progress from a beginner to an advanced Python programmer, mastering both theoretical knowledge and practical skills. Happy learning!

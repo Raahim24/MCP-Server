@@ -1,0 +1,27 @@
+# Prompt Engineering Learning Roadmap
+
+## Beginner Level:
+
+1. **Watch:** [Learn Better Prompt Engineering in 7 Minutes](https://www.youtube.com/watch?v=-Hjw0_PMyfQ&pp=0gcJCdgAo7VqN5tD) by AWS Developers.
+   
+2. **Read:** [Reverse the Challenge, Prompt the Code](https://leetprompt.io/) for hands-on practice with real coding challenges.
+
+3. **Practice:** Explore [GitHub - AsharibAli/100-Days-of-Prompt-Engineering](https://github.com/AsharibAli/100_Days_of_Prompt_Engineering) for a structured 100-day prompt engineering plan.
+
+## Intermediate Level:
+
+1. **Watch:** [Prompt Engineering Tutorial – Master ChatGPT and LLM Responses](https://www.youtube.com/watch?v=_ZvnD73m40o&pp=0gcJCfwAo7VqN5tD) by freeCodeCamp.org.
+
+2. **Read:** [Prompt Engineering Challenge | Teaching Resources - IDEEAS Lab](https://ideeaslab.com/resources/teaching/prompt-engineering-challenge/) for group prompt engineering challenges.
+
+3. **Project:** Check out [GitHub - DilrajS/Prompt-Engineering-Assistant-Chatbot](https://github.com/DilrajS/Prompt-Engineering-Assistant-Chatbot) to build your own Prompt Engineering Assistant Chatbot.
+
+## Advanced Level:
+
+1. **Watch:** [The ULTIMATE 2025 Guide to Prompt Engineering - Master the Perfect Prompt Formula!](https://www.youtube.com/watch?v=bIxbpIwYTXI&pp=0gcJCdgAo7VqN5tD) by AI Master for advanced techniques.
+
+2. **Read:** [Prompt Engineering in 2025: The Latest Best Practices](https://www.news.aakashg.com/p/prompt-engineering?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F423f7be9-fd4d-4314-afb8-0a1797fcd156_1302x1362.png&open=false) for insights into prompt engineering importance.
+
+3. **Project:** Explore [Prompt Engineering Z2H | Prompt Engineering From Zero To Hero Free Online Book](https://promptz2h.com/) for real-world AI application projects.
+
+This roadmap provides a structured path for learners to progress from beginner to advanced levels in prompt engineering, incorporating a mix of tutorials, practice resources, and hands-on projects. Happy learning!

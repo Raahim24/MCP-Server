@@ -1,0 +1,329 @@
+{
+  "tutorials": {
+    "requestId": "30c505f698433994570ebfff93a6a0b9",
+    "autopromptString": "python tutorial course video youtube",
+    "resolvedSearchType": "neural",
+    "results": [
+      {
+        "id": "https://www.youtube.com/watch?v=K5KVEU3aaeQ",
+        "title": "Python Full Course for Beginners [2025] - YouTube",
+        "url": "https://www.youtube.com/watch?v=K5KVEU3aaeQ",
+        "publishedDate": "2025-02-12T00:00:00.000Z",
+        "author": "Programming with Mosh",
+        "summary": "This YouTube video is a full Python course for beginners. It covers a range of topics, starting with the basics of Python and installation, then moving on to variables, strings, numbers, operators, loops, and functions. The video also includes quizzes and exercises to help viewers learn.\n",
+        "image": "https://i.ytimg.com/vi/K5KVEU3aaeQ/maxresdefault.jpg",
+        "favicon": "https://www.youtube.com/s/desktop/fba944d3/img/logos/favicon_32x32.png"
+      },
+      {
+        "id": "https://www.youtube.com/watch?v=Qb9UQ0J7puI",
+        "title": "Python Full Course 2025 | Python Programming | Python Coding Tutorial for Beginners | Simplilearn",
+        "url": "https://www.youtube.com/watch?v=Qb9UQ0J7puI",
+        "publishedDate": "2024-12-15T00:00:00.000Z",
+        "author": "Simplilearn",
+        "summary": "This YouTube video by Simplilearn is a full Python programming course for beginners. It covers Python basics, data analysis with Pandas, EDA, probability, statistics, and advanced concepts like the ADABoost algorithm and deep learning. The course also includes a roadmap to becoming a data scientist and covers topics like installing Python and writing your first program.\n",
+        "favicon": "https://www.youtube.com/s/desktop/aba54451/img/logos/favicon_32x32.png"
+      },
+      {
+        "id": "https://www.youtube.com/watch?v=-65r_3r-nN4&pp=0gcJCc0AaK0XXGki",
+        "title": "Python Tutorial with Gen AI for 2025 | Python for Beginners | Python full course",
+        "url": "https://www.youtube.com/watch?v=-65r_3r-nN4&pp=0gcJCc0AaK0XXGki",
+        "publishedDate": "2024-07-28T00:00:00.000Z",
+        "author": "Great Learning",
+        "summary": "This YouTube video is a comprehensive Python tutorial for beginners, covering fundamental concepts and advanced topics. It includes Python fundamentals, data structures, object-oriented programming, exception and file handling, data structures and algorithms, machine learning with Python (NumPy, Pandas, Matplotlib, Seaborn), Generative AI with Python, automation with Selenium, and GUI development with Tkinter. The video also provides links to free courses and certificates from Great Learning Academy.\n",
+        "favicon": "https://www.youtube.com/s/desktop/db246ed5/img/logos/favicon_32x32.png"
+      },
+      {
+        "id": "https://www.youtube.com/watch?v=ix9cRaBkVe0",
+        "title": "Python Full Course for free (2024) - YouTube",
+        "url": "https://www.youtube.com/watch?v=ix9cRaBkVe0",
+        "publishedDate": "2024-08-20T00:00:00.000Z",
+        "author": "Bro Code",
+        "summary": "This YouTube video is a full Python tutorial course for beginners in 2024. It covers a wide range of topics, including variables, user input, loops, functions, object-oriented programming, exception handling, file handling, and GUI development with PyQt5. The course includes numerous projects and programs, such as a Madlibs game, calculator, shopping cart, and weather API app. The video is over 11 hours long and provides links to the Python interpreter and PyCharm IDE.\n",
+        "favicon": "https://www.youtube.com/s/desktop/33ae93e9/img/logos/favicon_32x32.png"
+      },
+      {
+        "id": "https://www.youtube.com/watch?v=ERCMXc8x7mc&pp=0gcJCdgAo7VqN5tD",
+        "title": "Python Tutorial for Beginners - Full Course (with Notes \\u0026 Practice Questions)",
+        "url": "https://www.youtube.com/watch?v=ERCMXc8x7mc&pp=0gcJCdgAo7VqN5tD",
+        "publishedDate": "2024-02-12T00:00:00.000Z",
+        "author": "Apna College",
+        "summary": "This YouTube video is a full Python tutorial for beginners. It covers variables, data types, strings, conditional statements, lists, tuples, dictionaries, sets, loops, functions, recursion, file input/output, and object-oriented programming (OOPS) with a mini-project. The video also provides timestamps for each section.\n",
+        "favicon": "https://www.youtube.com/s/desktop/e1f1fadb/img/logos/favicon_32x32.png"
+      },
+      {
+        "id": "https://www.youtube.com/watch?v=H2EJuAcrZYU",
+        "title": "Python Full Course for Beginners | Complete All-in-One Tutorial | 9 Hours",
+        "url": "https://www.youtube.com/watch?v=H2EJuAcrZYU",
+        "publishedDate": "2023-07-25T00:00:00.000Z",
+        "author": "Dave Gray",
+        "summary": "This is a 9-hour Python full course for beginners on YouTube, offering a complete tutorial with 23 chapters covering Python fundamentals. The course includes topics like Python basics, operators, data types, user input, lists, loops, functions, and more. The video provides links to resources, including source code and a GitHub repository with all course materials.\n",
+        "favicon": "https://www.youtube.com/s/desktop/fba944d3/img/logos/favicon_32x32.png"
+      },
+      {
+        "id": "https://www.youtube.com/watch?v=qwAFL1597eM",
+        "title": "Python Tutorial for Beginners (with mini-projects)",
+        "url": "https://www.youtube.com/watch?v=qwAFL1597eM",
+        "publishedDate": "2023-09-19T00:00:00.000Z",
+        "author": "freeCodeCamp.org",
+        "summary": "This YouTube video is a complete Python programming tutorial for beginners. It includes mini-projects to help you apply what you learn. The course is developed by Dave Gray and covers topics like Python basics, data types, user input, lists, dictionaries, loops, functions, and more. The video also includes a final project and resources in the description.\n",
+        "favicon": "https://www.youtube.com/s/desktop/33ae93e9/img/logos/favicon_32x32.png"
+      },
+      {
+        "id": "https://www.youtube.com/watch?v=ITSMDeOgXxw",
+        "title": "Python Full Course 2023 | Learn Python in 12 Hours | Python Tutorial for Beginners | Simplilearn",
+        "url": "https://www.youtube.com/watch?v=ITSMDeOgXxw",
+        "publishedDate": "2023-02-05T00:00:00.000Z",
+        "author": "Simplilearn",
+        "summary": "This YouTube video is a 12-hour Python tutorial for beginners. It covers fundamental Python programming concepts like data types, variables, conditional statements, strings, operators, lists, tuples, and dictionaries. The tutorial also delves into advanced Python programming with OOP concepts, exception handling, file handling, and sorting techniques. The video includes a Spotify data analysis project and interview questions to help you get a job.\n",
+        "favicon": "https://www.youtube.com/s/desktop/606e092f/img/logos/favicon_32x32.png"
+      },
+      {
+        "id": "https://www.youtube.com/watch?v=XKHEtdqhLK8&feature=youtu.be",
+        "title": "Python Full Course 🐍 (FREE)",
+        "url": "https://www.youtube.com/watch?v=XKHEtdqhLK8&feature=youtu.be",
+        "publishedDate": "2023-02-06T19:01:45.000Z",
+        "author": "Bro Code",
+        "summary": "This YouTube video is a full Python tutorial course for beginners. It covers a wide range of topics, including: variables, string methods, user input, math functions, loops, lists, functions, file handling, modules, object-oriented programming, and GUI windows. The course also includes several game projects like rock, paper, scissors, tic tac toe, and snake. The video has timestamps for each topic and links to the full playlist and code in the comments.\n"
+      },
+      {
+        "id": "https://www.youtube.com/watch?v=6sLkF-F9Oh0",
+        "title": "Python Full Course - in 3 hours | Programming Tutorial for Beginners | Free Certification 2023",
+        "url": "https://www.youtube.com/watch?v=6sLkF-F9Oh0",
+        "publishedDate": "2022-12-13T00:00:00.000Z",
+        "author": "Analytics Vidhya",
+        "summary": "This YouTube video is a 3-hour Python programming tutorial for beginners. It covers programming essentials, interview concepts, and important libraries like Pandas, Matplotlib, and Seaborn, enabling viewers to work on data analysis, data mining, data visualization, and machine learning projects. The course also touches on Generative AI and includes a free certification and downloadable course materials.\n",
+        "favicon": "https://www.youtube.com/s/desktop/70f744c3/img/logos/favicon_32x32.png"
+      }
+    ],
+    "searchTime": 3629.1760559994727,
+    "costDollars": {
+      "total": 0.015,
+      "search": {
+        "neural": 0.005
+      },
+      "contents": {
+        "summary": 0.01
+      }
+    }
+  },
+  "practice": {
+    "requestId": "7907f406ae14a58559af6f1d1b80ffd8",
+    "autopromptString": "python practice problems challenges exercises",
+    "resolvedSearchType": "neural",
+    "results": [
+      {
+        "id": "https://www.w3resource.com/python-exercises/",
+        "title": "Python Exercises, Practice, Solution - w3resource",
+        "url": "https://www.w3resource.com/python-exercises/",
+        "publishedDate": "2025-04-10T12:56:14.000Z",
+        "author": "",
+        "summary": "This webpage provides a comprehensive collection of Python practice problems, exercises, and challenges. It offers a total of 9475 Python problems, including 2029 main exercises with solutions, explanations, and related problems. The resource is designed for beginner to intermediate Python users to enhance their programming skills.\n",
+        "image": "//www.w3resource.com/w3r_images/python.gif"
+      },
+      {
+        "id": "https://pynative.com/python-exercises-with-solutions/",
+        "title": "Practice Python Exercises and Challenges with Solutions - PYnative",
+        "url": "https://pynative.com/python-exercises-with-solutions/",
+        "publishedDate": "2025-04-17T00:00:00.000Z",
+        "author": "",
+        "summary": "This webpage offers Python coding exercises and challenges with solutions for developers of all levels. It includes over 280 coding questions across 19 topics, ranging from Python basics and data structures to data analytics. Each exercise contains 15-30 questions with hints and solutions. The exercises cover topics like basic concepts, functions, strings, lists, OOP, file handling, JSON, NumPy, and Pandas.\n"
+      },
+      {
+        "id": "https://www.geeksforgeeks.org/python/python-exercises-practice-questions-and-solutions/",
+        "title": "Python Exercise with Practice Questions and Solutions",
+        "url": "https://www.geeksforgeeks.org/python/python-exercises-practice-questions-and-solutions/",
+        "publishedDate": "2021-01-08T23:42:37.000Z",
+        "author": "GeeksforGeeks",
+        "summary": "This webpage from GeeksforGeeks provides Python exercises with solutions to help beginners practice and improve their Python skills. It includes chapter-wise exercises covering conditional statements, lists, strings, tuples, dictionaries, sets, matrix operations, functions, object-oriented programming, regular expressions, linked lists, searching, sorting, data structures and algorithms (DSA), file handling, and JSON. The page also links to the GeeksforGeeks Practice Platform for additional Python challenges. The first set of exercises focuses on conditional statements, with specific problems listed.\n",
+        "image": "https://media.geeksforgeeks.org/wp-content/uploads/20210105234135/PythonPracticeExercisesQuestionsandSolutionsmin.png",
+        "favicon": "https://www.geeksforgeeks.org/wp-content/uploads/gfg_200X200-100x100.png"
+      },
+      {
+        "id": "https://www.practicepython.org/",
+        "title": "Practice Python",
+        "url": "https://www.practicepython.org/",
+        "publishedDate": "2022-07-24T00:00:00.000Z",
+        "author": "Michele Pratusevich, michele.pratusevich@gmail.com",
+        "summary": "Practice Python offers over 40 beginner Python exercises with discussions and solutions. You can find the latest exercise (Exercise 40) from July 17, 2022, and its solution from July 24, 2022.\n"
+      },
+      {
+        "id": "https://realpython.com/python-practice-problems/",
+        "title": "Python Practice Problems: Get Ready for Your Next Interview",
+        "url": "https://realpython.com/python-practice-problems/",
+        "publishedDate": "2023-06-23T20:34:23.000Z",
+        "author": "Jim Anderson",
+        "summary": "This tutorial on Real Python provides Python practice problems to help intermediate developers prepare for coding interviews. It covers writing code for interview-style problems, discussing solutions, and addressing frequently overlooked details. The tutorial includes problems like summing a range of integers, Caesar ciphers, log parsing, and a Sudoku solver.\n",
+        "image": "https://files.realpython.com/media/Python-Practice-Problems_Watermarked.5c04810c002a.jpg"
+      },
+      {
+        "id": "https://www.hackerrank.com/domains/python",
+        "title": "Solve Python - HackerRank",
+        "url": "https://www.hackerrank.com/domains/python",
+        "publishedDate": "2012-07-19T17:13:20.000Z",
+        "author": "",
+        "summary": "This HackerRank page offers Python practice problems, challenges, and exercises across various difficulty levels (Easy, Medium, Hard) and subdomains, including: Introduction, Basic Data Types, Strings, Sets, Math, Itertools, Collections, Date and Time, Errors and Exceptions, Classes, Built-Ins, Python Functionals, Regex and Parsing, XML, Closures and Decorators, Numpy, and Debugging.\n",
+        "image": "https://hrcdn.net/og/default.jpg"
+      },
+      {
+        "id": "https://www.codechef.com/practice/python",
+        "title": "Python Coding Practice Online: 195+ Problems on CodeChef",
+        "url": "https://www.codechef.com/practice/python",
+        "author": "",
+        "summary": "This webpage provides a platform for practicing Python programming. It likely includes a variety of practice problems, challenges, and exercises to help users improve their Python skills.\n",
+        "favicon": "https://www.codechef.com/favicon.ico"
+      },
+      {
+        "id": "https://amankharwal.medium.com/python-practice-questions-for-beginners-268fcdfb14e6",
+        "title": "50+ Python Practice Questions for Coding Interviews",
+        "url": "https://amankharwal.medium.com/python-practice-questions-for-beginners-268fcdfb14e6",
+        "publishedDate": "2022-07-15T00:00:00.000Z",
+        "author": "Aman Kharwal",
+        "summary": "This article provides a list of 50+ Python practice questions for coding interviews, suitable for beginners who have completed the fundamentals of Python. The questions are designed to develop problem-solving skills and are relevant for coding interviews, including those at FAANG companies.\n",
+        "image": "https://miro.medium.com/v2/resize:fit:1200/1*ELvOGqUiyPj-N_CgcMtq9w.png"
+      },
+      {
+        "id": "https://github.com/veryacademy/Python-Challenges",
+        "title": "GitHub - veryacademy/Python-Challenges",
+        "url": "https://github.com/veryacademy/Python-Challenges",
+        "publishedDate": "2021-07-22T21:47:46.000Z",
+        "author": "veryacademy",
+        "summary": "This is a GitHub repository called \"Python-Challenges\" by veryacademy. It contains Python code challenges for users to practice and develop their skills. The repository includes challenges categorized by beginner and intermediate levels, with some focusing on specific areas like Tkinter and CSV manipulation.\n",
+        "image": "https://opengraph.githubassets.com/dbffaa5645e9bf0e8e31451bfe8e57266d3b5aae9bfac46066787ce1fdb7fc57/veryacademy/Python-Challenges",
+        "favicon": "https://github.com/fluidicon.png"
+      },
+      {
+        "id": "https://github.com/yamanju/python-coding-challenges",
+        "title": "GitHub - yamanju/python-coding-challenges",
+        "url": "https://github.com/yamanju/python-coding-challenges",
+        "publishedDate": "2023-03-22T04:45:35.000Z",
+        "author": "yamanju",
+        "summary": "This GitHub repository, \"python-coding-challenges,\" by yamanju, appears to contain Python coding challenges. The README.md file likely provides more details. The owner is a data scientist from Turkey, and is currently learning Numpy, Pandas, and Seaborn.\n",
+        "image": "https://opengraph.githubassets.com/d2778d8eff9035a283e6d947fdf9db48db9e420f0726891c4bd2567f21698a91/yamanju/python-coding-challenges",
+        "favicon": "https://github.com/fluidicon.png"
+      }
+    ],
+    "searchTime": 3658.526977999136,
+    "costDollars": {
+      "total": 0.015,
+      "search": {
+        "neural": 0.005
+      },
+      "contents": {
+        "summary": 0.01
+      }
+    }
+  },
+  "projects": {
+    "requestId": "1723152da4d03842401bc1e71b562fff",
+    "autopromptString": "python project ideas build hands-on",
+    "resolvedSearchType": "neural",
+    "results": [
+      {
+        "id": "https://www.datacamp.com/blog/60-python-projects-for-all-levels-expertise",
+        "title": "60+ Python Projects for All Levels of Expertise - DataCamp",
+        "url": "https://www.datacamp.com/blog/60-python-projects-for-all-levels-expertise",
+        "publishedDate": "2023-09-12T00:00:00.000Z",
+        "author": "",
+        "summary": "This article provides over 60 Python project ideas to help you build hands-on experience and accelerate your learning journey. The projects are categorized by skill level, including beginner projects like analyzing diamond prices, abalone shells, and Premier League data, as well as predicting telecom customer churn. The article recommends using DataCamp's resources, including courses and DataLab, to build foundational skills and work on projects in a fully configured data notebook.\n",
+        "favicon": "https://www.datacamp.com/marketing-backgrounds/favicons/favicon-32x32.png"
+      },
+      {
+        "id": "https://www.dataquest.io/blog/python-projects-for-beginners/",
+        "title": "Python Projects for Beginners: 60+ Ideas to Build Your Portfolio",
+        "url": "https://www.dataquest.io/blog/python-projects-for-beginners/",
+        "publishedDate": "2024-05-02T05:01:12.000Z",
+        "author": "Dataquest",
+        "summary": "This webpage provides Python project ideas to help you learn the language through hands-on experience. It recommends starting with beginner-friendly projects like an interactive word game, analyzing Netflix data, predicting heart disease, exploring Hacker News posts, or analyzing eBay car sales. The page also offers links to courses for those new to Python and lists project ideas for different skill levels and interests, including web development and game development.\n",
+        "image": "https://www.dataquest.io/wp-content/uploads/2023/03/project-ideas.png",
+        "favicon": "https://www.dataquest.io/wp-content/uploads/2024/04/cropped-Favicon-32x32.png"
+      },
+      {
+        "id": "https://www.geeksforgeeks.org/python/python-projects-beginner-to-advanced/",
+        "title": "Python Projects - Beginner to Advanced - GeeksforGeeks",
+        "url": "https://www.geeksforgeeks.org/python/python-projects-beginner-to-advanced/",
+        "publishedDate": "2020-12-09T10:32:30.000Z",
+        "author": "GeeksforGeeks",
+        "summary": "This webpage provides a list of Python project ideas for beginners to advanced users to build hands-on. Beginner projects include games (number guessing, word guessing, Hangman, Rock Paper Scissors, etc.), and tools like voice recorders, screen recorders, and desktop notifiers. Intermediate projects include bot creation (Twitter, WhatsApp, Telegram), data analysis tools (Twitter Sentiment Analyzer), and file-sharing apps.\n",
+        "image": "https://media.geeksforgeeks.org/wp-content/uploads/20201123152927/PythonProjects11.png",
+        "favicon": "https://www.geeksforgeeks.org/wp-content/uploads/gfg_200X200-100x100.png"
+      },
+      {
+        "id": "https://pythongeeks.org/python-projects/",
+        "title": "70+ Python Projects for Beginners [Source Code Included] - Python Geeks",
+        "url": "https://pythongeeks.org/python-projects/",
+        "publishedDate": "2022-12-10T10:32:19.000Z",
+        "author": "PythonGeeks Team",
+        "summary": "This webpage provides a list of over 70 Python project ideas for beginners, with source code included. The projects cover a wide range of applications, including:\n\n*   Mad Libs Generator\n*   Number Guessing Game\n*   Countdown Timer\n*   Password Generator\n*   Contact Book\n*   Desktop Notifier App\n*   Website Blocker\n*   Web Scraping\n*   URL Shortener\n*   Twitter Bot\n*   Reddit Bot\n*   Discord Bot\n*   Crypto App\n*   Interactive Quiz\n*   Web Browser\n*   Notes App\n*   Typing Tester\n*   Wikipedia Explorer\n*   Stock Market Prediction App\n*   Image Recognition App\n*   Price Prediction Model\n*   Temperature Converter\n*   Measurement Converter\n*   Bulk File Renamer\n*   Weather Program\n*   Pong Game\n*   Connect Four\n*   Tetris Game\n",
+        "favicon": "https://pythongeeks.org/wp-content/uploads/2021/04/cropped-python-geeks-favicon-32x32.png"
+      },
+      {
+        "id": "https://realpython.com/courses/word-count-app-project/",
+        "title": "Python Project: Build a Word Count Command-Line App – Real Python",
+        "url": "https://realpython.com/courses/word-count-app-project/",
+        "publishedDate": "2025-06-02T00:00:00.000Z",
+        "author": "Real Python",
+        "summary": "This Real Python project guides you through building a simplified version of the Unix `wc` command using Python. The project involves reading content from files and standard input, counting lines, words, and bytes, handling Unicode, and implementing command-line arguments. It provides hands-on experience with file handling, text processing, and command-line utilities, using modules like `pathlib` and `argparse`. The project includes 28 lessons, downloadable resources, and interactive quizzes.\n",
+        "image": "https://files.realpython.com/media/Coding-Challenge-Wordcount.18aa6928cf0b.jpg",
+        "favicon": "https://realpython.com/static/favicon.68cbf4197b0c.png"
+      },
+      {
+        "id": "https://www.kdnuggets.com/5-fun-python-projects-for-absolute-beginners",
+        "title": "5 Fun Python Projects for Absolute Beginners - KDnuggets",
+        "url": "https://www.kdnuggets.com/5-fun-python-projects-for-absolute-beginners",
+        "publishedDate": "2025-07-02T00:00:00.000Z",
+        "author": "",
+        "summary": "This article suggests 5 beginner-friendly Python projects to learn core programming principles and practical techniques: 1. Pomodoro Timer App: Build a timer app using event-driven programming and tkinter. 2. Note Taking App with Speech Recognition: Create a voice-powered note-taking assistant using speech_recognition and API integration. 3. AI Virtual Painter: Develop an interactive application using OpenCV to detect colors and track movement. 4. PyPhotoshop: Build a mini-Photoshop to manipulate pixels and handle user input. 5. Tower Defense Game: Create a tower-defense-style game to learn loops, classes, and real-time user interaction.\n",
+        "image": "https://www.kdnuggets.com/wp-content/uploads/5-Fun-Python-Projects-for-Absolute-Beginners.png",
+        "favicon": "https://www.kdnuggets.com/wp-content/themes/kdn17/images/favicon.ico"
+      },
+      {
+        "id": "https://www.odinschool.com/blog/top-beginner-python-projects-with-code",
+        "title": "Top Beginner Python Projects with Code",
+        "url": "https://www.odinschool.com/blog/top-beginner-python-projects-with-code",
+        "publishedDate": "2025-02-21T06:45:48.000Z",
+        "author": "Pratyusha",
+        "summary": "This article provides beginner-level Python project ideas with code to help you practice and improve your programming abilities. One project idea is a Personal Budget Manager, a command-line application to manage personal finances. The code includes functions to load and save transactions, add transactions, and show a summary of financial activities.\n",
+        "image": "https://www.odinschool.com/hubfs/python%20projects.webp"
+      },
+      {
+        "id": "https://careerbytecode.substack.com/p/hands-on-python-fun-create-a-grid-based-game-that-trains-both-your-code-and-critical-thinking?utm_campaign=post&utm_medium=web",
+        "title": "Hands-On Python Fun: Create a Grid-Based Game That Trains Both Your Code and Critical Thinking",
+        "url": "https://careerbytecode.substack.com/p/hands-on-python-fun-create-a-grid-based-game-that-trains-both-your-code-and-critical-thinking?utm_campaign=post&utm_medium=web",
+        "publishedDate": "2025-04-11T21:30:07.000Z",
+        "author": "Gayathri Muthukumarasamy, CareerByteCode",
+        "summary": "This article details a fun, hands-on Python project: a grid-based game where the player navigates a 5x5 grid to reach a goal while avoiding a randomly moving enemy. This project teaches GUI programming and logic-building using the Tkinter library, making it ideal for beginners. It covers event handling, collision detection, and real-time updates, providing a foundation for game development and real-world applications. The project is suitable for teaching event-driven programming, beginner game development, Python GUI learning, interview demonstrations, and STEM education.\n",
+        "image": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbaffcff5-c1e9-45d5-8345-dff784849d57_1280x720.png",
+        "favicon": "https://substackcdn.com/image/fetch/f_auto%2Cq_auto%3Agood%2Cfl_progressive%3Asteep/https%3A//substack-post-media.s3.amazonaws.com/public/images/9cb51c83-825f-4321-b7ea-41d9354a9391/favicon-32x32.png"
+      },
+      {
+        "id": "https://careerbytecode.substack.com/p/build-a-digital-vault-to-protect-sensitive-information-using-simple-python-scripts?utm_campaign=post&utm_medium=web",
+        "title": "Lock the Vault: Secure File Encryption Using Python’s Cryptography Library",
+        "url": "https://careerbytecode.substack.com/p/build-a-digital-vault-to-protect-sensitive-information-using-simple-python-scripts?utm_campaign=post&utm_medium=web",
+        "publishedDate": "2025-05-01T20:20:42.000Z",
+        "author": "Gayathri Battini, CareerByteCode",
+        "summary": "This Python project idea focuses on building a secure file encryption and decryption tool using Python's cryptography library. It addresses the need for a simple, script-based solution for securing sensitive files, especially for non-technical users. The project will allow users to generate and manage encryption keys, encrypt files to prevent unauthorized access, and decrypt them when needed. This is useful for securing confidential files, transferring sensitive data, building backup scripts, working with CI/CD pipelines, and adding extra encryption to files stored on shared servers or cloud buckets.\n",
+        "image": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F77e4de00-0279-44ed-ab1a-0d1b6d6f4c49_1280x720.png",
+        "favicon": "https://substackcdn.com/image/fetch/f_auto%2Cq_auto%3Agood%2Cfl_progressive%3Asteep/https%3A//substack-post-media.s3.amazonaws.com/public/images/9cb51c83-825f-4321-b7ea-41d9354a9391/favicon-32x32.png"
+      },
+      {
+        "id": "https://realpython.com/tutorials/projects/",
+        "title": "Python Projects – Real Python",
+        "url": "https://realpython.com/tutorials/projects/",
+        "publishedDate": "2025-04-30T00:00:00.000Z",
+        "author": "Real Python",
+        "summary": "This page offers Python project ideas with step-by-step instructions to help you build real-world projects from scratch. You'll gain practical coding skills and build a portfolio by following the tutorials and working on hands-on projects.\n",
+        "image": "https://files.realpython.com/media/13-Python-Projects-for-Intermediate-Developers_Watermarked.bb98d44bdb10.jpg"
+      }
+    ],
+    "searchTime": 3587.318257998675,
+    "costDollars": {
+      "total": 0.015,
+      "search": {
+        "neural": 0.005
+      },
+      "contents": {
+        "summary": 0.01
+      }
+    }
+  }
+}
