@@ -50,7 +50,6 @@ GPT_API_KEY=your_openai_api_key_here
 NOTION_API_KEY=your_notion_integration_token_here
 NOTION_DATABASE_ID=your_notion_database_id_here
 NOTION_PAGE_ID=your_notion_page_id_here
-GMAIL_SENDER_EMAIL=your_email@example.com
 REDIS_URL=your_redis_connection_string
 ```
 
